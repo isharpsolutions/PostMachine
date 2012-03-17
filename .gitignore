@@ -1,0 +1,10 @@
+*~
+*.checksum
+workspace
+*.common
+*.pidb
+*.userprefs
+*bin/
+*test-results/
+*.log
+
